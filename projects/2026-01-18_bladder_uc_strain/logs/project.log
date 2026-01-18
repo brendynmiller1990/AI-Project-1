@@ -1,0 +1,6 @@
+2026-01-18T15:39:21Z [INFO] create.start project_name=bladder_uc_strain sources=pmc,biorxiv citation_style=vancouver
+2026-01-18T15:39:21Z [INFO] create.dirs_created
+2026-01-18T15:39:21Z [INFO] create.db_init path=C:\Users\brend\Desktop\Folders\Python Projects\AI Project 1\projects\.tmp_2026-01-18_bladder_uc_strain_fdce87d9bb9241a19c5a09924f4f4b90\library.db
+2026-01-18T15:39:21Z [INFO] create.schema_validated
+2026-01-18T15:39:21Z [INFO] create.manifest_written path=C:\Users\brend\Desktop\Folders\Python Projects\AI Project 1\projects\.tmp_2026-01-18_bladder_uc_strain_fdce87d9bb9241a19c5a09924f4f4b90\manifest.json
+2026-01-18T15:39:21Z [INFO] create.finalized project_dir=C:\Users\brend\Desktop\Folders\Python Projects\AI Project 1\projects\2026-01-18_bladder_uc_strain
