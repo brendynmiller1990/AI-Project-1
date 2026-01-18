@@ -1,0 +1,14 @@
+{
+  "project_id": "2026-01-18_bladder_smc_strain",
+  "project_name": "bladder_smc_strain",
+  "topic_prompt": "Effects of cyclic mechanical strain on bladder smooth muscle cells",
+  "created_at": "2026-01-18T15:14:55Z",
+  "sources": [
+    "pmc",
+    "biorxiv"
+  ],
+  "citation_style": "vancouver",
+  "status": "active",
+  "version": "v1",
+  "notes": "Initial literature exploration"
+}

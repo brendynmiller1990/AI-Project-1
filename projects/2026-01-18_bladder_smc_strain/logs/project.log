@@ -1,0 +1,6 @@
+2026-01-18T15:14:55Z [INFO] create.start project_name=bladder_smc_strain sources=pmc,biorxiv citation_style=vancouver
+2026-01-18T15:14:55Z [INFO] create.dirs_created
+2026-01-18T15:14:55Z [INFO] create.db_init path=projects\.tmp_2026-01-18_bladder_smc_strain_4e981b71ac0f4910b06ff3d3c3950c14\library.db
+2026-01-18T15:14:55Z [INFO] create.schema_validated
+2026-01-18T15:14:55Z [INFO] create.manifest_written path=projects\.tmp_2026-01-18_bladder_smc_strain_4e981b71ac0f4910b06ff3d3c3950c14\manifest.json
+2026-01-18T15:14:55Z [INFO] create.finalized project_dir=projects\2026-01-18_bladder_smc_strain
